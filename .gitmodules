@@ -1,9 +1,9 @@
 [submodule "microduck-hd1910m"]
-	path = microduck/microduck-hd1910m
+	path = vendor/microduck/microduck-hd1910m
 	url = git@github.com:Cle2ment/microduck-hd1910m.git
 [submodule "microduck"]
-	path = microduck/microduck
+	path = vendor/microduck/microduck
 	url = git@github.com:Cle2ment/microduck.git
 [submodule "xgoduck_hardware"]
-	path = xgoduck/xgoduck_hardware
+	path = vendor/xgoduck/xgoduck_hardware
 	url = git@github.com:Cle2ment/xgoduck_hardware.git
