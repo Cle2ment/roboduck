@@ -1,6 +1,9 @@
 [submodule "microduck-hd1910m"]
-	path = microduck-hd1910m
+	path = microduck/microduck-hd1910m
 	url = git@github.com:Cle2ment/microduck-hd1910m.git
-[submodule "microduck-pollenrobotics"]
-	path = microduck-pollenrobotics
-	url = git@github.com:Cle2ment/microduck-pollenrobotics.git
+[submodule "microduck"]
+	path = microduck/microduck
+	url = git@github.com:Cle2ment/microduck.git
+[submodule "xgoduck_hardware"]
+	path = xgoduck/xgoduck_hardware
+	url = git@github.com:Cle2ment/xgoduck_hardware.git
