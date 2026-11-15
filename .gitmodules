@@ -7,3 +7,9 @@
 [submodule "xgoduck_hardware"]
 	path = vendor/xgoduck/xgoduck_hardware
 	url = git@github.com:Cle2ment/xgoduck_hardware.git
+[submodule "vendor/xgoduck/xgoduck_rl"]
+	path = vendor/xgoduck/xgoduck_rl
+	url = git@github.com:Cle2ment/xgoduck_rl.git
+[submodule "vendor/microduck/microduck_rl"]
+	path = vendor/microduck/microduck_rl
+	url = git@github.com:Cle2ment/microduck_rl.git
