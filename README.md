@@ -80,8 +80,8 @@ git submodule update --init --recursive
 
 Roboduck 参考并保留以下上游项目的归属：
 
-- Pollen Robotics [MicroDuck](https://github.com/pollen-robotics/microduck) 与 [microduck_rl](https://github.com/pollen-robotics/microduck_rl)
-- HD1910M [MicroDuck](https://github.com/zhuoligetu123/microduck-hd1910m)
-- Luwu Dynamics [XGO-Duck Hardware](https://github.com/LuwuDynamics/xgoduck_hardware) 与 [xgoduck_rl](https://github.com/LuwuDynamics/xgoduck_rl)
+- Pollen Robotics [microduck](https://github.com/pollen-robotics/microduck) 与 [microduck_rl](https://github.com/pollen-robotics/microduck_rl)
+- HD1910M [microduck-hd1910m](https://github.com/zhuoligetu123/microduck-hd1910m)
+- Luwu Dynamics [xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) 与 [xgoduck_rl](https://github.com/LuwuDynamics/xgoduck_rl)
 
 主仓库当前没有统一 LICENSE。代码、模型、网格、权重、图片和 App 的许可范围并不相同；复用或再分发前，请逐项查看子模块的 `LICENSE`、`THIRD_PARTY.md`、`UPSTREAM.md` 和 `LICENSING.md`。公开下载不代表已获得全部资产的商用或再分发授权。
