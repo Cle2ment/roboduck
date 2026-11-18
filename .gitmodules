@@ -1,15 +1,15 @@
 [submodule "microduck-hd1910m"]
 	path = vendor/microduck/microduck-hd1910m
-	url = git@github.com:Cle2ment/microduck-hd1910m.git
+	url = git@github.com:zhuoligetu123/microduck-hd1910m.git
 [submodule "microduck"]
 	path = vendor/microduck/microduck
-	url = git@github.com:Cle2ment/microduck.git
+	url = git@github.com:pollen-robotics/microduck.git
 [submodule "xgoduck_hardware"]
 	path = vendor/xgoduck/xgoduck_hardware
-	url = git@github.com:Cle2ment/xgoduck_hardware.git
+	url = git@github.com:LuwuDynamics/xgoduck_hardware.git
 [submodule "vendor/xgoduck/xgoduck_rl"]
 	path = vendor/xgoduck/xgoduck_rl
-	url = git@github.com:Cle2ment/xgoduck_rl.git
+	url = git@github.com:LuwuDynamics/xgoduck_rl.git
 [submodule "vendor/microduck/microduck_rl"]
 	path = vendor/microduck/microduck_rl
-	url = git@github.com:Cle2ment/microduck_rl.git
+	url = git@github.com:pollen-robotics/microduck_rl.git
